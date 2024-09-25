@@ -1,0 +1,10 @@
+C:\Users\Lovro\source\repos\upisivanjePodatakaCSV\upisivanjePodatakaCSV\bin\Debug\upisivanjePodatakaCSV.exe.config
+C:\Users\Lovro\source\repos\upisivanjePodatakaCSV\upisivanjePodatakaCSV\bin\Debug\upisivanjePodatakaCSV.exe
+C:\Users\Lovro\source\repos\upisivanjePodatakaCSV\upisivanjePodatakaCSV\bin\Debug\upisivanjePodatakaCSV.pdb
+C:\Users\Lovro\source\repos\upisivanjePodatakaCSV\upisivanjePodatakaCSV\obj\Debug\upisivanjePodatakaCSV.csproj.AssemblyReference.cache
+C:\Users\Lovro\source\repos\upisivanjePodatakaCSV\upisivanjePodatakaCSV\obj\Debug\upisivanjePodatakaCSV.Form1.resources
+C:\Users\Lovro\source\repos\upisivanjePodatakaCSV\upisivanjePodatakaCSV\obj\Debug\upisivanjePodatakaCSV.Properties.Resources.resources
+C:\Users\Lovro\source\repos\upisivanjePodatakaCSV\upisivanjePodatakaCSV\obj\Debug\upisivanjePodatakaCSV.csproj.GenerateResource.cache
+C:\Users\Lovro\source\repos\upisivanjePodatakaCSV\upisivanjePodatakaCSV\obj\Debug\upisivanjePodatakaCSV.csproj.CoreCompileInputs.cache
+C:\Users\Lovro\source\repos\upisivanjePodatakaCSV\upisivanjePodatakaCSV\obj\Debug\upisivanjePodatakaCSV.exe
+C:\Users\Lovro\source\repos\upisivanjePodatakaCSV\upisivanjePodatakaCSV\obj\Debug\upisivanjePodatakaCSV.pdb
